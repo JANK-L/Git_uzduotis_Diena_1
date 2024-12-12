@@ -1,1 +1,1 @@
-Dokumentacijos nėra
+Dokumentacijos nėra, nes nėra kodo.
